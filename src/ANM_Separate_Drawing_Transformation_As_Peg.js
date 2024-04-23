@@ -13,8 +13,8 @@
 	2) Locate to your user scripts folder (a hidden folder):
 	   https://docs.toonboom.com/help/harmony-17/premium/scripting/import-script.html
 	   
-	3) Add all unzipped files (*.js, *.ui, and script-icons folder) directly to the folder above.	
-	4) Add ANM_Separate_Drawing_Transformation_As_Peg to any toolbar.
+	3) There is a folder named src inside the zip file. Copy all its contents directly to the folder above.
+	4) In Harmony, add ANM_Separate_Drawing_Transformation_As_Peg function to any toolbar.
 
 	
 	Direction:
@@ -26,7 +26,7 @@
 	Author:
 
 		Yu Ueda		
-		Many more useful scripts hor Toon Boom Harmony are available. Please visit raindropmoment.com	
+		Many more useful scripts for Toon Boom Harmony are available. Please visit raindropmoment.com	
 */
 
 
